@@ -1,33 +1,5 @@
-🇳🇵 **merobot** is an **ultra-lightweight** personal AI assistant inspired by [OpenClaw](https://github.com/openclaw/openclaw) 
+**merobot** is an **ultra-lightweight** personal AI assistant inspired by [OpenClaw](https://github.com/openclaw/openclaw) 
 
-
-## Key Features of merobot:
-
- ✨**Ultra-Lightweight**: Just ~4,000 lines of core agent code — 99% smaller than Clawdbot.
-
-🔬 **Research-Ready**: Clean, readable code that's easy to understand, modify, and extend for research.
-
-⚡️ **Lightning Fast**: Minimal footprint means faster startup, lower resource usage, and quicker iterations.
-
-💎 **Easy-to-Use**: One-click to deploy and you're ready to go.
-
-## 🏗️ Architecture
-
-<p align="center">
-  <img src="merobot_arch.png" alt="merobot architecture" width="800">
-</p>
-
-## ✨ Features
-
-<table align="center">
-  <tr align="center">
-    <th><p align="center"> 📚System Control</p></th>
-    <th><p align="center">🚀 Task Automation</p></th>
-    <th><p align="center">📅 Smart Daily Routine Manager</p></th>
-    <th><p align="center">📚 Personal Knowledge Assistant</p></th>
-  </tr>
-  <tr>
-</table>
 
 ## 📦 Install
 
@@ -36,18 +8,6 @@
 ```bash
 git clone https://github.com/chhatramani01/merobot.git
 pip install -e .
-```
-
-**Install with [uv](https://github.com/astral-sh/uv)** (stable, fast)
-
-```bash
-uv tool install merobot-ai
-```
-
-**Install from PyPI** (stable)
-
-```bash
-pip install merobot-ai
 ```
 
 ## 🚀 Quick Start
