@@ -35,7 +35,6 @@
 
 ```bash
 git clone https://github.com/chhatramani01/merobot.git
-cd merobot
 pip install -e .
 ```
 
